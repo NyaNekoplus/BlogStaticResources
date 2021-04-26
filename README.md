@@ -1,0 +1,2 @@
+# BlogStaticResources
+cdn
